@@ -17,18 +17,11 @@ p{
 }
 .hero{
     width: 100%;
-    position: relative;
-  text-align: center;
-  color: white;
 
-    /* Create the parallax scrolling effect */
 }
 .hero img{
     width: 100%;
     
-}
-.image{
-    border-radius: 5%;
 }
 .image:hover{
     transform: scale(1.07);

@@ -27,9 +27,7 @@ p{
     width: 100%;
     
 }
-.image{
-    border-radius: 5%;
-}
+.image
 .image:hover{
     transform: scale(1.07);
 
